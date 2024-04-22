@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javidan Ganbarov.</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Azerbaijan.</h3>
 
-- 🔭 I’m currently working on **Book Recommender System.**
+- 🔭 I’m currently working on **Student Performance Prediction and Book Recommender System.**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision.**
 
